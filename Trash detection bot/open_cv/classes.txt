@@ -1,0 +1,4 @@
+cardboard
+metal
+soft_plastic
+hard_plastic
